@@ -7,4 +7,4 @@ Excel Import/Export: Easily manage medicine data with an Excel converter.
 Web Search: Look up unavailable medicines online directly from the application.
 Enhanced UI: Uses Guna Framework for a modern and user-friendly experience.
 Would you like a more detailed README template with installation steps? 🚀
-![Login Page](\Project_Photo\LoginPage.png)
+![Login Page](\Project_Photo\Login_Page.jpg)
